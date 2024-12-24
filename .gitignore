@@ -129,7 +129,6 @@ celerybeat.pid
 
 # Environments
 mlproject_env/
-.artifacts
 .env
 .venv
 env/
